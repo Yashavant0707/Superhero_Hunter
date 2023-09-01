@@ -54,4 +54,4 @@ This project is done by me from scratch by referring to google and coding ninja.
 
 
 ## Deployed Link
--[SUPER HERO HUNTER]()
+-[SUPER HERO HUNTER](https://superherohunterprojectyash.netlify.app/)
